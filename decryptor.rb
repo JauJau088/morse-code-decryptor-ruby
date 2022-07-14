@@ -42,12 +42,13 @@ end
 
 # decode phrase
 def decode_phrase(phrase)
-  phrase.split("   ")
-  .map {|word| decode_word(word)}
-  .join(" ")
+  phrase
+    .split('   ')
+    .map { |word| decode_word(word) }
+    .join(' ')
 end
 
 # call the functions
-p decode_char(".-")
-p decode_word("-- -.--")
-p decode_phrase(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
+p decode_char('.-')
+p decode_word('-- -.--')
+p decode_phrase('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
