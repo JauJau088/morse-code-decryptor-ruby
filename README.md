@@ -1,6 +1,6 @@
 # Morse Code Decryptor Ruby
 
-> Welcome to Morse Code Decryptor. This is a Ruby repo for decrypting a morse code message. 
+> Welcome to Morse Code Decryptor. This is a Ruby repo for decrypting a morse code message!
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Install the gem file by executing:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/camilevahviraki/decode-morse. This project is intended to be a safe, welcoming space for collaboration, and contributors are welcome.
+Bug reports and pull requests are welcome on GitHub at [issues page](../../issues/). This project is intended to be a safe, welcoming space for collaboration, and contributors are welcome.
 Fill free to reach us or contact in the issue page.
 
 ## Show your support
