@@ -1,6 +1,6 @@
-# morse-code-decryptor-ruby
+# Morse Code Decryptor Ruby
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/decode/morse`. To experiment with that code, run `bin/console` for an interactive prompt.
+> Welcome to Morse Code Decryptor. This is a Ruby repo for decrypting a morse code message. 
 
 ## Getting Started
 
